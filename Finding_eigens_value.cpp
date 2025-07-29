@@ -22,7 +22,7 @@ int main () {
     cout <<"a11= "; cin >>a11; cout << "a12= "; cin >> a12; cout << "a13= "; cin >> a13; 
     cout <<"Enter the value's of second row of your matrix"<< endl;
     cout << "a21= "; cin >> a21;  cout << "a22= "; cin >> a22;  cout << "a23= "; cin >> a23;
-    cout <<"Enter the value's of second row of your matrix"<< endl;
+    cout <<"Enter the value's of Third row of your matrix"<< endl;
     cout << "a31= "; cin >> a31;  cout << "a32= "; cin >> a32;  cout << "a33= "; cin >> a33;
 
     int coeff3, coeff2, coeff1 ,coeff0;
